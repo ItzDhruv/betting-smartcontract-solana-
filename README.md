@@ -77,9 +77,9 @@ Integration with a price oracle for cross-currency support.
 Images of Test Cases
 
 
-Test Case 1: Bet Creation Validation
+Test Case : Bet Creation Validation and join bet 
+![img alt](https://github.com/ItzDhruv/betting-smartcontract-solana-/blob/548653e476579259e27dcd7ce49c5f821de2dbfc/Screenshot%202025-01-23%20172538.png)
 
-Test Case 2: Joining a Bet
 
 Test Case 3: Announcing the Winner
 
