@@ -77,11 +77,20 @@ Integration with a price oracle for cross-currency support.
 Images of Test Cases
 
 
+
+
 Test Case : Bet Creation Validation and join bet 
 ![img alt](https://github.com/ItzDhruv/betting-smartcontract-solana-/blob/548653e476579259e27dcd7ce49c5f821de2dbfc/Screenshot%202025-01-23%20172538.png)
 
 
-Test Case 3: Announcing the Winner
+
+test case : End bet and annoucing winner 
+
+![img alt](https://github.com/ItzDhruv/betting-smartcontract-solana-/blob/36fd143ed1b2ff2b25d8f7218a6b75a101c013ae/Screenshot%202025-01-23%20173212.png)
+
+test case : view lottery information onchain (devnet)
+
+![img alt](https://github.com/ItzDhruv/betting-smartcontract-solana-/blob/36fd143ed1b2ff2b25d8f7218a6b75a101c013ae/Screenshot%202025-01-23%20173227.png)
 
 Future Enhancements
 Integrate a frontend for user interaction.
