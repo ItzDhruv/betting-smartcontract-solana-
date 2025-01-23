@@ -1,3 +1,5 @@
+Decentralized Betting Smart Contract (Solana)
+
 Overview
 This repository contains the backend implementation of a decentralized betting application on the Solana blockchain. The smart contract is written in Rust using the Anchor framework. The application enables users to:
 
@@ -32,7 +34,7 @@ Clone the Repository
 bash
 Copy
 Edit
-git clone https://github.com/your-repo/solana-betting-smartcontract.git
+git clone https://github.com/ItzDhruv/betting-smartcontract-solana-.git
 cd solana-betting-smartcontract
 Install Dependencies Ensure you have the following installed:
 
