@@ -75,6 +75,8 @@ Proper handling of participant entries.
 Random selection of a winner and payout distribution.
 Integration with a price oracle for cross-currency support.
 Images of Test Cases
+
+
 Test Case 1: Bet Creation Validation
 
 Test Case 2: Joining a Bet
