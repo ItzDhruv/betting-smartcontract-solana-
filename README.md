@@ -42,31 +42,18 @@ Install Dependencies Ensure you have the following installed:
 Rust
 Solana CLI
 Anchor
-Install project dependencies:
-
-bash
-Copy
-Edit
+Install project dependencies
 anchor build
 Deploy to Devnet Update the Anchor.toml file with your Solana Devnet wallet:
-
 toml
-Copy
-Edit
 [provider]
 cluster = "devnet"
 wallet = "~/.config/solana/id.json"
 Deploy the program:
 
-bash
-Copy
-Edit
 anchor deploy
 Run Tests Ensure the smart contract behaves as expected by running test cases:
 
-bash
-Copy
-Edit
 anchor test
 Test Cases
 Test cases verify:
