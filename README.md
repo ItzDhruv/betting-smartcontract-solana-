@@ -29,10 +29,14 @@ migrations/: Handles deployment scripts for Solana.
 Anchor.toml: Anchor configuration file.
 Cargo.toml: Dependencies and build information for Rust.
 Setup Instructions
+
 Clone the Repository
 
 git clone https://github.com/ItzDhruv/betting-smartcontract-solana-.git
+
 cd solana-betting-smartcontract
+
+
 Install Dependencies Ensure you have the following installed:
 
 Rust
