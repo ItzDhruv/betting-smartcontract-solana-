@@ -31,9 +31,6 @@ Cargo.toml: Dependencies and build information for Rust.
 Setup Instructions
 Clone the Repository
 
-bash
-Copy
-Edit
 git clone https://github.com/ItzDhruv/betting-smartcontract-solana-.git
 cd solana-betting-smartcontract
 Install Dependencies Ensure you have the following installed:
